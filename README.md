@@ -1,7 +1,7 @@
 <div align="center">
 
 <picture>
-  <img src="assets/images/phantom-logo-dark.svg" width="96" alt="phantom_">
+  <img src="./assets/phantom-logo-dark.svg" alt="phantom_">
 </picture>
 
 # phantom_
