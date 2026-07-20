@@ -1,6 +1,7 @@
 <div align="center">
-
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/phantom-logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/phantom-logo-light.svg">
   <img src="./assets/phantom-logo-dark.svg" alt="phantom_">
 </picture>
 
